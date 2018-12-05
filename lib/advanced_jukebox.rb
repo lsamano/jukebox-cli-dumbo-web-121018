@@ -2,6 +2,7 @@
 #make sure to edit the value of each key to replace < path to this directory >
 #with the correct path to this directory on your computer
 
+=begin
  my_songs = {
  "Go Go GO" => '/home/lsamano/jukebox-cli-dumbo-web-121018/audio/Emerald-Park/01.mp3',
  "LiberTeens" => '/home/lsamano/jukebox-cli-dumbo-web-121018/audio/Emerald-Park/02.mp3',
@@ -11,6 +12,7 @@
  "Blue" => '/home/lsamano/jukebox-cli-dumbo-web-121018/audio/Emerald-Park/06.mp3',
  "Graduation Failed" => '/home/lsamano/jukebox-cli-dumbo-web-121018/audio/Emerald-Park/07.mp3'
  }
+=end
 
 def help
   puts "I accept the following commands:"
